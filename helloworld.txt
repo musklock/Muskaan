@@ -1,1 +1,6 @@
+
 hello world twoMore data! master
+
+hello world twoMore data!
+ merge conflict
+
