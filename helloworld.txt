@@ -1,17 +1,7 @@
 
 hello world twoMore data! master
 
-
-
-
-
-
 hello world twoMore data!
  merge conflict
-
-
-
-
-
 
 Yet another change from AJ! Whoohoo
